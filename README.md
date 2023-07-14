@@ -1,4 +1,6 @@
 
+Chat.zeus is a simple chat app where you can create an account and chat with friends and send pictures.
+
 DEPLOY LINK :: https://chat-zeus.netlify.app/
 
 ![Screenshot (30)](https://github.com/anishsinhaa/Chat.zeus/assets/119957644/cf19dd78-276d-4a77-9aef-a1d225033ae6)
