@@ -1,5 +1,5 @@
 
-Chat.zeus is a simple chat app where you can create an account and chat with friends and send pictures.
+Chat.zeus is a simple chat app where you can create an account and chat with friends and send pictures. It uses firebase database to store all the users, chats and pictures.
 
 DEPLOY LINK :: https://chat-zeus.netlify.app/
 
